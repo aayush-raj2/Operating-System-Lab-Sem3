@@ -1,0 +1,11 @@
+# 🔍 Filter Commands
+
+cut -c1-5 filename         → Extract characters 1 to 5
+cut -d":" -f1 filename     → Extract first field using ':' as delimiter
+grep pattern filename      → Search pattern in file
+grep -i pattern filename   → Case-insensitive search
+grep -v pattern filename   → Exclude pattern
+sort filename              → Sort alphabetically
+sort -r filename           → Sort in reverse order
+sort -u filename           → Sort and remove duplicates
+
