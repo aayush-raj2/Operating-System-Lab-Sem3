@@ -1,0 +1,15 @@
+# ⚙️ Administrative Commands
+
+who                → Show logged-in users
+whoami             → Display current username
+id                 → Display UID and GID
+ps                 → Show current processes
+top                → Display system activity
+kill PID           → Kill process by PID
+chmod 754 f1       → Change permissions (rwxr-xr--)
+chown user file    → Change owner
+sudo command       → Execute as superuser
+passwd             → Change user password
+df -h              → Show disk usage
+du -h              → Show folder size
+history            → Show command history
