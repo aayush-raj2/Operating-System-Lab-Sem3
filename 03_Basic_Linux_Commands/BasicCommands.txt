@@ -1,0 +1,21 @@
+# 🧩 Basic Linux Commands
+
+echo SRM               → Display the string "SRM"
+clear                  → Clear terminal screen
+date                   → Display current date and time
+cal 2003               → Show calendar for year 2003
+cal 6 2003             → Show calendar for June 2003
+passwd                 → Change password
+
+# File Operations
+ls                     → List files in directory
+ls -l                  → Detailed listing
+ls -a                  → Include hidden files
+cat > f1               → Create file f1
+cat f1                 → Display file f1
+wc f1                  → Count lines, words, and characters
+cp f1 f2               → Copy f1 into f2
+mv f1 f2               → Rename f1 as f2
+rm f1                  → Remove file f1
+head -5 f1             → Display first 5 lines
+tail -5 f1             → Display last 5 lines
