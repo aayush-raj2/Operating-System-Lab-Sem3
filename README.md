@@ -70,4 +70,5 @@ chmod +x script_name.sh
 `#OperatingSystem` `#CProgramming` `#OSLab` `#Linux` `#Scheduling` `#MemoryManagement` `#shell-scripting` `#system-calls` `#Deadlock` `#PageReplacement`
 
 ---
+
 >✨ “Operating Systems don’t just run programs — they make programs possible.” ✨
