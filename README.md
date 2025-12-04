@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Author: **Aayush Raj**
 ### 🏫 College: SRM Institute of Science and Technology
-### 🧩 Language: **C and Shell**
+### 🧩 Language: **C and Shell** 
 
 This repository contains all **Operating System Lab Experiments** performed in **Semester 3**, covering both **theoretical** and **practical** aspects of Operating Systems.
 
